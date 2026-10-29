@@ -183,4 +183,9 @@ For meaningful operational forecasts:
 
 ## License
 
-Provided as an educational starter project. Add a license before redistributing it as a formal product.
+Provided as an educational starter project. A GNU Public license-v3.o has been added .
+
+
+## Deployment
+
+THE project has been deployed in render.
